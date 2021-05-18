@@ -3,6 +3,8 @@
 ## Project Description
 In this project we'll be repeating the image on the background image using pillow module in python.
 We'll saving the result image in .png format.
+Also this project is a part of 'AUTOMATE THE BORING STUFF USING PYTHON (by AL SWEIGART)'
+
 
 ### Project Requirements
 👉 pillow 
